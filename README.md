@@ -1,4 +1,4 @@
-1. Find a pair with the given sum in an array
+1. Find a pair with the given sum in an array :heavy_check_mark:
 2. Check if a subarray with 0 sum exists or not
 3. Print all subarrays with 0 sum
 4. Sort binary array in linear time
