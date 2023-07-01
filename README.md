@@ -1,4 +1,3 @@
-1. Find a pair with the given sum in an array :heavy_check_mark:
 2. Check if a subarray with 0 sum exists or not
 3. Print all subarrays with 0 sum
 4. Sort binary array in linear time
@@ -697,4 +696,8 @@
 697. Lexicographic rank of a string
 698. Check children-sum property in a binary tree
 699. Remove all extra spaces from a string
-700. Determine whether two strings are anagram or not :heavy_check_mark:
+
+Completed: :heavy_check_mark:
+
+1. Find a pair with the given sum in an array :heavy_check_mark:
+2. Determine whether two strings are anagram or not :heavy_check_mark:
